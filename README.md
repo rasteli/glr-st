@@ -11,7 +11,7 @@ st is very minimal, so I've patched it to make it useful for me. These are all t
 - blinking cursor - this patch allows the use of a blinking cursor
 - clipboard - allows st to set to clipboard on selection
 - default font size - this lets you spawn a terminal with a larger font size without specifying a font
-- dracula - this patch make the Dracula color scheme available for st
+- dracula - this patch makes the Dracula color scheme available for st
 - dynamic cursor - swaps the colors of your cursor and the character you're currently on
 - font2 - This patch allows to add spare font besides default
 - right click paste - pressing right-click pastes from the primary-selection
@@ -22,6 +22,8 @@ st is very minimal, so I've patched it to make it useful for me. These are all t
 ### New options
 
 - -z size (font size)
+
+## Installing glr-st on Arch Linux
 
 You can clone this repository or simply download the `PKGBUILD` file.\
 Either way, make sure you're in the same directory as the `PKGBUILD` file and run:
