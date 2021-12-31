@@ -25,6 +25,10 @@ st is very minimal, so I've patched it to make it useful for me. These are all t
 
 ## Installing glr-st on Arch Linux
 
+glr-st is available in the [AUR](https://aur.archlinux.org/packages/glr-st-git/).
+
+**OR**
+
 You can clone this repository or simply download the `PKGBUILD` file.\
 Either way, make sure you're in the same directory as the `PKGBUILD` file and run:
 
