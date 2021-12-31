@@ -59,7 +59,7 @@ sudo make clean install
 
 ---
 
-`**NOTE:**` for emojis to render properly, you need to install a separate font like [Symbola](https://fontlibrary.org/en/font/symbola).
+**`NOTE:`** for emojis to render properly, you need to install a separate font like [Symbola](https://fontlibrary.org/en/font/symbola).
 
 > glr-st conflicts with standard st. Make sure to backup your existing st as this will overwirte it.
 
