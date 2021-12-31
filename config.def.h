@@ -6,6 +6,11 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "mononoki Nerd Font:pixelsize=18:antialias=true:autohint=true";
+/* Spare fonts */
+static char *font2[] = {
+	"Hack:pixelsize=18:antialias=true:autohint=true"
+};
+
 static int borderpx = 2;
 
 /*
