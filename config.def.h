@@ -9,7 +9,7 @@
 static char *font = "Hack:pixelsize=18:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"mononoki Nerd Font:pixelsize=18:antialias=true:autohint=true"
+	"Symbola:pixelsize=18:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
